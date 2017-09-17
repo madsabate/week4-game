@@ -1,0 +1,81 @@
+body{
+	background-image: url("../images/caves.jpg");
+	background-position: center;
+}
+
+
+h1{
+	font-size: 40px;
+}
+
+.crystal {
+	width: 150px;
+	height: 150px;
+	border: solid 3px white;
+	margin: 0px 10px 0px 0px;
+
+}
+
+
+#header{
+	color: #ffffff;
+	background: #bfbfbf;
+	border: solid 3px white;
+	text-align: center;
+	padding: 10px 0px 10px 10px;
+
+
+}
+.crystalcontainer{
+	padding: 10px 10px 10px 10px;
+	margin: 10px 10px 10px 10px;
+	
+}
+
+#container {
+	height: auto;
+}
+
+#wins{
+	background: #bfbfbf;
+	color: #ffffff;
+	border: solid 3px white;
+	padding: 10px 10px 10px 10px;
+	margin: 45px 10px 10px 10px;
+
+}
+
+#losses{
+	background: #bfbfbf;
+	color: #ffffff;
+	border: solid 3px white;
+	padding: 10px 10px 10px 10px;
+	margin: 10px 10px 10px 10px;
+	
+}
+
+#targetNumber{
+	background: #bfbfbf;
+	color: #ffffff;
+	border: solid 3px white;
+	padding: 10px 10px 10px 10px;
+	margin: 45px 10px 10px 10px;
+}
+
+#userTotal{
+	background: #bfbfbf;
+	color: #ffffff;
+	border: solid 3px white;
+	padding: 10px 10px 10px 10px;
+	margin: 10px 10px 10px 10px;
+}
+
+.description {
+	color: #ffffff;
+	background: #bfbfbf;
+	max-width: 500px;
+	border: solid 3px white;
+	text-align: center;
+	padding: 10px 10px 10px 10px;
+	margin-top: 20px;
+}
